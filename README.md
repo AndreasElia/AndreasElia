@@ -1,3 +1,6 @@
 ## :wave: Hi, I'm Andreas!
 
-I'm a self-taught developer seeking to make the world a better place. I have always enjoyed being curious about how things work on the web, which in turn makes me want to learn how they work and make use of my knowledge in future projects. Do you have ideas for packages or other open-source projects? Shoot me an email and I'd be more than happy to discuss a possible implementation with you. In turn for creating open-source projects, packages and apps; I seek fresh knowledge and better solutions for technical problems. When I'm not at a computer working, I love to be out in nature exercising, hiking or going for a relaxing walk whilst listening to some great music from the 70's.
+- :brain: My curiousity drives my learning.
+- :computer: I'm a self-taught developer seeking to make the world a better place.
+- :earth_americas: I love to be out in nature exercising, hiking, and walking whilst listening to some great music from the 70s.
+- :question: Do you have ideas for packages or other open-source projects? Shoot me an email so we can discuss it.
