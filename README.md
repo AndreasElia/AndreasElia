@@ -1,4 +1,4 @@
-## :wave: Hi, I'm Andreas!
+## :wave: Hi there, I'm Dre!
 
 - :brain: Curiousity drives my learning.
 - :computer: Self-taught developer seeking to make the world a better place through open-source.
